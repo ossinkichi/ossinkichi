@@ -5,8 +5,6 @@
 
 <h3>Entao boa sorte para min 🍷</h3>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ossinkichi&theme=radical&layout=compact)
-
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ossinkichi&show_icons=true) -->
 
 <!---
